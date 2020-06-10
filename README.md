@@ -8,35 +8,45 @@
   Dolgozhatsz ugyanabba a projektbe, a gyakorlati feladatok egymástól függetlenek. A feladatokhoz megtalálhatóak
   tesztesetek az [exercises](exercises) könyvtárban, mindig az adott videóhoz tartozót másold be a projektedbe!
 
+Amennyiben nem marad időd az összes gyakorlati feladat elvégzésére, a következő sorrendet javasolt a feldolgozásban:
+
+Széleskörben használt tervezési minták: Simple factory, Factory method, Builder, Singleton, Adapter, Decorator, Facade,
+Proxy, Command, Observer, State, Strategy
+
+Nem annyira elterjedt minták: Abstract factory, Prototype, Bridge, Composite, Flyweight, Chain of responsibility,
+Interpreter, Iterator, Mediator, Memento, Template method, Visitor
+
 ## Tematika
+
+(Zárójelben a csomagneveket találod.)
 
 * Bevezető
     * Áttekintés
     * A tervezési minták jellemzői
 * Létrehozási minták
-    * Simple factory
-    * Factory method
-    * Abstract factory
-    * Builder
-    * Prototype
-    * Singleton
+    * Simple factory (simplefactory)
+    * Factory method (factorymethod)
+    * Abstract factory (abstractfactory)
+    * Builder (builder)
+    * Prototype (prototype)
+    * Singleton (singleton)
 * Szerkezeti minták
-    * Adapter
-    * Bridge
-    * Composite
-    * Decorator
-    * Facade
-    * Flyweight
-    * Proxy
+    * Adapter (adapter)
+    * Bridge (bridge)
+    * Composite (composite)
+    * Decorator (decorator)
+    * Facade (facade)
+    * Flyweight (flyweight)
+    * Proxy (proxy)
 * Viselkedési minták
-    * Chain of responsibility
-    * Command
-    * Interpreter
-    * Iterator
-    * Mediator
-    * Memento
-    * Observer
-    * State
-    * Strategy
-    * Template method
-    * Visitor
+    * Chain of responsibility (chainofresponsibility)
+    * Command (command)
+    * Interpreter (interpreter)
+    * Iterator (iterator)
+    * Mediator (mediator)
+    * Memento (memento)
+    * Observer (observer)
+    * State (state)
+    * Strategy (strategy)
+    * Template method (templatemethod)
+    * Visitor (visitor)

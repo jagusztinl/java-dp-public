@@ -8,7 +8,7 @@
   Dolgozhatsz ugyanabba a projektbe, a gyakorlati feladatok egymástól függetlenek. A feladatokhoz megtalálhatóak
   tesztesetek az [exercises](exercises) könyvtárban, mindig az adott videóhoz tartozót másold be a projektedbe!
 
-Amennyiben nem marad időd az összes gyakorlati feladat elvégzésére, a következő sorrendet javasolt a feldolgozásban:
+Amennyiben nem marad időd az összes gyakorlati feladat elvégzésére, a következő sorrend javasolt a feldolgozásban:
 
 Széleskörben használt tervezési minták: Simple factory, Factory method, Builder, Singleton, Adapter, Decorator, Facade,
 Proxy, Command, Observer, State, Strategy
